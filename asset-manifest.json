@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myom-web-app/static/css/main.523f09c5.chunk.css",
-    "main.js": "/myom-web-app/static/js/main.2707c9ff.chunk.js",
-    "main.js.map": "/myom-web-app/static/js/main.2707c9ff.chunk.js.map",
+    "main.js": "/myom-web-app/static/js/main.23612b73.chunk.js",
+    "main.js.map": "/myom-web-app/static/js/main.23612b73.chunk.js.map",
     "runtime-main.js": "/myom-web-app/static/js/runtime-main.801be622.js",
     "runtime-main.js.map": "/myom-web-app/static/js/runtime-main.801be622.js.map",
     "static/js/2.25c1bccd.chunk.js": "/myom-web-app/static/js/2.25c1bccd.chunk.js",
     "static/js/2.25c1bccd.chunk.js.map": "/myom-web-app/static/js/2.25c1bccd.chunk.js.map",
     "index.html": "/myom-web-app/index.html",
-    "precache-manifest.0d1b100829f28fd8edf41c01a0bcd3aa.js": "/myom-web-app/precache-manifest.0d1b100829f28fd8edf41c01a0bcd3aa.js",
+    "precache-manifest.7b4212e1f1054f96bec354d0316d820b.js": "/myom-web-app/precache-manifest.7b4212e1f1054f96bec354d0316d820b.js",
     "service-worker.js": "/myom-web-app/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/myom-web-app/static/css/main.523f09c5.chunk.css.map",
     "static/js/2.25c1bccd.chunk.js.LICENSE.txt": "/myom-web-app/static/js/2.25c1bccd.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.801be622.js",
     "static/js/2.25c1bccd.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.2707c9ff.chunk.js"
+    "static/js/main.23612b73.chunk.js"
   ]
 }
