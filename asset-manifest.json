@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myom-web-app/static/css/main.523f09c5.chunk.css",
+    "main.js": "/myom-web-app/static/js/main.60d82c90.chunk.js",
+    "main.js.map": "/myom-web-app/static/js/main.60d82c90.chunk.js.map",
+    "runtime-main.js": "/myom-web-app/static/js/runtime-main.801be622.js",
+    "runtime-main.js.map": "/myom-web-app/static/js/runtime-main.801be622.js.map",
+    "static/js/2.25c1bccd.chunk.js": "/myom-web-app/static/js/2.25c1bccd.chunk.js",
+    "static/js/2.25c1bccd.chunk.js.map": "/myom-web-app/static/js/2.25c1bccd.chunk.js.map",
+    "index.html": "/myom-web-app/index.html",
+    "precache-manifest.b17e9f41d2395746ad3c0b2674b54e39.js": "/myom-web-app/precache-manifest.b17e9f41d2395746ad3c0b2674b54e39.js",
+    "service-worker.js": "/myom-web-app/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/myom-web-app/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.25c1bccd.chunk.js.LICENSE.txt": "/myom-web-app/static/js/2.25c1bccd.chunk.js.LICENSE.txt",
+    "static/media/blog-post-1.md": "/myom-web-app/static/media/blog-post-1.30897ee9.md",
+    "static/media/blog-post-2.md": "/myom-web-app/static/media/blog-post-2.4ced253a.md",
+    "static/media/blog-post-3.md": "/myom-web-app/static/media/blog-post-3.fec40a74.md",
+    "static/media/collectionDrive.jpg": "/myom-web-app/static/media/collectionDrive.f15d6096.jpg",
+    "static/media/dog.jpg": "/myom-web-app/static/media/dog.1b0bd462.jpg",
+    "static/media/dogShelter.png": "/myom-web-app/static/media/dogShelter.5fcd63d4.png",
+    "static/media/featuredPost2.jpg": "/myom-web-app/static/media/featuredPost2.32fa54e2.jpg",
+    "static/media/logo.png": "/myom-web-app/static/media/logo.dee2571c.png",
+    "static/media/myomTeam.jpg": "/myom-web-app/static/media/myomTeam.508ff636.jpg",
+    "static/media/oldAgeHome.jpg": "/myom-web-app/static/media/oldAgeHome.f74ac121.jpg",
+    "static/media/uss.jpg": "/myom-web-app/static/media/uss.cebcb618.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801be622.js",
+    "static/js/2.25c1bccd.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.60d82c90.chunk.js"
+  ]
+}
