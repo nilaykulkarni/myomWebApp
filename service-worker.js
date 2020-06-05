@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/myom-web-app/precache-manifest.5be2f6bff2d7f0288b23622d032f36d7.js"
+  "/myom-web-app/precache-manifest.545bcbcb2ee96d7f093d93625fcfae16.js"
 );
 
 self.addEventListener('message', (event) => {
