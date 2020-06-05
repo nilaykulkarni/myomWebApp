@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/myom-web-app/static/css/main.523f09c5.chunk.css",
-    "main.js": "/myom-web-app/static/js/main.3a84a3ab.chunk.js",
-    "main.js.map": "/myom-web-app/static/js/main.3a84a3ab.chunk.js.map",
+    "main.js": "/myom-web-app/static/js/main.268acfe3.chunk.js",
+    "main.js.map": "/myom-web-app/static/js/main.268acfe3.chunk.js.map",
     "runtime-main.js": "/myom-web-app/static/js/runtime-main.801be622.js",
     "runtime-main.js.map": "/myom-web-app/static/js/runtime-main.801be622.js.map",
-    "static/js/2.25c1bccd.chunk.js": "/myom-web-app/static/js/2.25c1bccd.chunk.js",
-    "static/js/2.25c1bccd.chunk.js.map": "/myom-web-app/static/js/2.25c1bccd.chunk.js.map",
+    "static/js/2.10104fda.chunk.js": "/myom-web-app/static/js/2.10104fda.chunk.js",
+    "static/js/2.10104fda.chunk.js.map": "/myom-web-app/static/js/2.10104fda.chunk.js.map",
     "index.html": "/myom-web-app/index.html",
-    "precache-manifest.0c14db0ea4bd3c6926f78402a361746c.js": "/myom-web-app/precache-manifest.0c14db0ea4bd3c6926f78402a361746c.js",
+    "precache-manifest.2ceadc40242cd5b54402a7afa515b9da.js": "/myom-web-app/precache-manifest.2ceadc40242cd5b54402a7afa515b9da.js",
     "service-worker.js": "/myom-web-app/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/myom-web-app/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.25c1bccd.chunk.js.LICENSE.txt": "/myom-web-app/static/js/2.25c1bccd.chunk.js.LICENSE.txt",
+    "static/js/2.10104fda.chunk.js.LICENSE.txt": "/myom-web-app/static/js/2.10104fda.chunk.js.LICENSE.txt",
     "static/media/blog-post-1.md": "/myom-web-app/static/media/blog-post-1.30897ee9.md",
     "static/media/blog-post-2.md": "/myom-web-app/static/media/blog-post-2.4ced253a.md",
     "static/media/blog-post-3.md": "/myom-web-app/static/media/blog-post-3.fec40a74.md",
@@ -22,12 +22,13 @@
     "static/media/logo.png": "/myom-web-app/static/media/logo.dee2571c.png",
     "static/media/myomTeam.jpg": "/myom-web-app/static/media/myomTeam.508ff636.jpg",
     "static/media/oldAgeHome.jpg": "/myom-web-app/static/media/oldAgeHome.f74ac121.jpg",
+    "static/media/under_construction.png": "/myom-web-app/static/media/under_construction.55711862.png",
     "static/media/uss.jpg": "/myom-web-app/static/media/uss.cebcb618.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.801be622.js",
-    "static/js/2.25c1bccd.chunk.js",
+    "static/js/2.10104fda.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.3a84a3ab.chunk.js"
+    "static/js/main.268acfe3.chunk.js"
   ]
 }
